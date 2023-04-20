@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "big-json": "^3.2.0",
+    "cids": "^1.1.9",
+    "fs-extra": "^11.1.0",
+    "get-folder-size": "^2.0.1",
+    "go-ipfs": "^0.19.1",
+    "ipfs": "^0.66.0",
+    "ipfs-cid": "^0.1.0",
+    "ipfs-http-client": "^56.0.2",
+    "keyv": "^4.5.2",
+    "kubo-rpc-client": "^3.0.1",
+    "line-reader": "^0.4.0",
+    "pretty-bytes": "^5.6.0",
+    "radix-trie-js": "^1.0.6"
+  }
+}
